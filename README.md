@@ -8,12 +8,10 @@ The 2 things the program will ask you for is the name of the PDF file, and the n
 
 
 NOTE:
-
 Please make sure that the PDF and P.T.E. are in the same location. The output text file will be in the same location that P.T.E. is ran from.
 
 
 I hope you find this helpful.
-
 Thank you.
 
 
